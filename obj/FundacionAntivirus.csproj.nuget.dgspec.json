@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JUAN\\Documents\\Eafit\\Profundizacion\\IntegrationBackEnd\\BackEnd\\FundacionAntivirus\\FundacionAntivirus.csproj": {}
+    "C:\\Users\\JUAN\\Documents\\Eafit\\Cloud\\FundacionAntivirus\\FundacionAntivirus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JUAN\\Documents\\Eafit\\Profundizacion\\IntegrationBackEnd\\BackEnd\\FundacionAntivirus\\FundacionAntivirus.csproj": {
+    "C:\\Users\\JUAN\\Documents\\Eafit\\Cloud\\FundacionAntivirus\\FundacionAntivirus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JUAN\\Documents\\Eafit\\Profundizacion\\IntegrationBackEnd\\BackEnd\\FundacionAntivirus\\FundacionAntivirus.csproj",
+        "projectUniqueName": "C:\\Users\\JUAN\\Documents\\Eafit\\Cloud\\FundacionAntivirus\\FundacionAntivirus.csproj",
         "projectName": "FundacionAntivirus",
-        "projectPath": "C:\\Users\\JUAN\\Documents\\Eafit\\Profundizacion\\IntegrationBackEnd\\BackEnd\\FundacionAntivirus\\FundacionAntivirus.csproj",
+        "projectPath": "C:\\Users\\JUAN\\Documents\\Eafit\\Cloud\\FundacionAntivirus\\FundacionAntivirus.csproj",
         "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JUAN\\Documents\\Eafit\\Profundizacion\\IntegrationBackEnd\\BackEnd\\FundacionAntivirus\\obj\\",
+        "outputPath": "C:\\Users\\JUAN\\Documents\\Eafit\\Cloud\\FundacionAntivirus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -38,7 +38,7 @@ public class DonationsController : ControllerBase
     /// <summary>
     /// Obtiene una donación por su ID.
     /// </summary>
-    [HttpGet("{id}")]
+    [HttpGet("{id3}")]
     [Authorize(Roles = "admin,user")] // admin puede ver todas, User solo puede ver las suyas
     public async Task<IActionResult> GetByIdDonation(int id)
     {
