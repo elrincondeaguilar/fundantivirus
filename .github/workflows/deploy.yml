@@ -16,10 +16,10 @@ jobs:
           dotnet-version: '9.0.x'
 
       - name: Build project
-        run: dotnet build --configuration Release
+        run: dotnet build FundacionAntivirus.sln --configuration Release
 
       - name: Publish project
-        run: dotnet publish -c Release -o publish
+        run: dotnet publish FundacionAntivirus.sln -c Release -o publish
 
       - name: Authenticate with GCP
         uses: google-github-actions/auth@v2
