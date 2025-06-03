@@ -44,3 +44,4 @@ jobs:
           service: miappmvc
           image: gcr.io/${{ secrets.GCP_PROJECT }}/miappmvc:latest
           region: us-central1
+          serviceAccount: github-action@funda-454622.iam.gserviceaccount.com
