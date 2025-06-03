@@ -61,7 +61,7 @@ public class DonationsController : ControllerBase
     /// <summary>
     /// Crea una nueva donación.
     /// </summary>
-    [HttpPost("crearUsuarioNuevo")]
+    [HttpPost("Crear")]
     [Authorize(Roles = "admin,user")] // Tanto admin como User pueden donar
     public async Task<IActionResult> CreateDonation([FromBody] DonationDto donationDto)
     {
